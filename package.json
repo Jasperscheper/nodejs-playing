@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "javascript-stringify": "^2.1.0",
+    "mathjs": "^10.0.0"
+  }
+}
